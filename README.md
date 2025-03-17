@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @3ecoder
-- 👀 I’m interested in.
+- 👀 I’m interested in.coding
 - 🌱 I’m currently learning .codes..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on ... node 
+- 📫 How to reach me ... b93805548@gmail.com
+- 😄 Pronouns: ...him
+- ⚡ Fun fact: ... gaming 
 
 <!---
 3ecoder/3ecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
